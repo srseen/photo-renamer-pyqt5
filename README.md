@@ -1,4 +1,8 @@
 # Photo renamer
+### github clone
+```
+https://github.com/srseen/photo-renamer-pyqt5.git
+```
 ### libs
 ```
 pip install PyQt5 pillow
