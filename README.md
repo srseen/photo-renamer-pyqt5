@@ -1,7 +1,7 @@
 # Photo renamer
 ### github clone
 ```
-https://github.com/srseen/photo-renamer-pyqt5.git
+git clone https://github.com/srseen/photo-renamer-pyqt5.git
 ```
 ### libs
 ```
